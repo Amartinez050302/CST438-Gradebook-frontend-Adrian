@@ -39,7 +39,7 @@ function EditAssignment(props) {
         console.error('Edit assignment error:', error);
       });
   };
-
+ // displays relevant information correctly and uses labels. Needs to implement a dialogue box to display information.
   return (
     <div>
       <h2>Edit Assignment</h2>
