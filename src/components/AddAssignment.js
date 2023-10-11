@@ -24,7 +24,7 @@ function AddAssignment(props) {
     setAssignmentName('');
     setAssignmentDueDate('');
   };
-
+ // Displays and adds functionality to add a new assignment. 
   return (
     <div>
       <h2>Add Assignment</h2>
